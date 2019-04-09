@@ -1,11 +1,11 @@
-pkg update && pkg upgrade
-pkg install php
-pkg install python2
-pkg install mechanize
-pkg install ssh
-pkg install git
-git clone https://github.com/morefast/Tools
-ls
-cd Tools
-chmod +x bruteforce.sh
-sh bruteforce.sh
+pkg update && pkg upgrade <br>
+pkg install php<br>
+pkg install python2<br>
+pkg install mechanize<br>
+pkg install ssh<br>
+pkg install git<br>
+git clone https://github.com/morefast/Tools<br>
+ls<br>
+cd Tools<br>
+chmod +x bruteforce.sh<br>
+sh bruteforce.sh<br>
