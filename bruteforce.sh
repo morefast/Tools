@@ -27,8 +27,8 @@ clear
 sleep 1
 echo
 echo $pur"==================="$cy" ==================="
-echo $i"==="$pu"      HARAP DIGUNAKAN  "
-echo $i"==="$pu"       DENGAN BIJAK    "
+echo $i"==="$pu"      HARAP DIGUNAKAN  "$i"      ==="
+echo $i"==="$pu"       DENGAN BIJAK    "$i"      ==="
 echo $pur"==================="$cy" ==================="
 echo
 echo $cy"MENU BRUTEPORCE :"
